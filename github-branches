@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert eb352e1 [origin/bug-fix-revert] Revert "bug-fix-typo"
+  bug-fix-typo   648e113 [origin/bug-fix-typo] bug-fix-typo
+  main           648e113 [origin/main: ahead 1] bug-fix-typo
